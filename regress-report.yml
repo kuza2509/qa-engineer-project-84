@@ -4,15 +4,11 @@ test-cases:
       Проверка поиска по ключевому слову.
     status: pass
 
-bugreports: []
-
 
 test-cases:
   - summary: |
       Проверка поиска по категории.
     status: pass
-
-bugreports: []
 
 
 test-cases:
@@ -41,8 +37,6 @@ test-cases:
   - summary: |
       Пользователь должен иметь возможность изменить категорию на невыбранную.
     status: pass
-
-bugreports: []
 
 
 test-cases:
@@ -194,15 +188,11 @@ test-cases:
       Проверка просмотра карточки товара.
     status: pass
 
-bugreports: []
-
 
 test-cases:
   - summary: |
       Проверка добавления товара в корзину и просмотр корзины.
     status: pass
-
-bugreports: []
 
 
 test-cases:
@@ -248,8 +238,6 @@ test-cases:
       Проверка возможности удаления товара из корзины.
     status: pass
 
-bugreports: []
-
 
 test-cases:
   - summary: |
@@ -275,8 +263,6 @@ test-cases:
   - summary: |
       Проверка сохранения корзины после обновления страницы.
     status: pass
-
-bugreports: []
 
 
 test-cases:
@@ -306,15 +292,11 @@ test-cases:
       Проверка скорости работы сайта.
     status: pass
 
-bugreports: []
-
 
 test-cases:
   - summary: |
       Проверка доступности сайта на различных устройствах.
     status: pass
-
-bugreports: []
 
 
 test-cases:
@@ -322,23 +304,17 @@ test-cases:
       Проверка наличия шифрования HTTPS.
     status: pass
 
-bugreports: []
-
 
 test-cases:
   - summary: |
       Проверка наличия защиты от Cross-site Script (XSS), SQL Injection
     status: pass
 
-bugreports: []
-
 
 test-cases:
   - summary: |
       Проверка кроссбраузерности
     status: pass
-
-bugreports: []
 
 
 test-cases:
