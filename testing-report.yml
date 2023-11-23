@@ -9,9 +9,6 @@
     Проверка поиска по ключевому слову и категории.
   status: pass
 - summary: |
-    Проверка сброса категории.
-  status: fail
-- summary: |
     Проверка пустой выдачи при вводе несуществующего товара.
   status: pass
 - summary: |
@@ -56,9 +53,6 @@
 - summary: |
     Проверка доступности сайта на различных устройствах.
   status: fail
-- summary: |
-    Проверка наличия шифрования HTTPS.
-  status: pass
 - summary: |
     Проверка наличия защиты от Cross-site Script (XSS), SQL Injection
   status: pass
