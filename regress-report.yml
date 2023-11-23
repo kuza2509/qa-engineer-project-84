@@ -13,10 +13,6 @@ test-cases:
     status: pass
 
   - summary: |
-      Проверка сброса категории.
-    status: pass
-
-  - summary: |
       Проверка пустой выдачи при вводе несуществующего товара.
     status: fail
 
@@ -74,10 +70,6 @@ test-cases:
 
   - summary: |
       Проверка доступности сайта на различных устройствах.
-    status: pass
-
-  - summary: |
-      Проверка наличия шифрования HTTPS.
     status: pass
 
   - summary: |
